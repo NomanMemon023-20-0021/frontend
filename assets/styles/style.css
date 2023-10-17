@@ -1,0 +1,32 @@
+/* Reset some default browser styles */
+body,
+h1,
+h2,
+h3,
+p {
+  margin: 0;
+  padding: 0;
+}
+
+/* Style the header */
+.site-header {
+  background-color: #f6b12f; /* Change the background color to your preference */
+  color: #fff; /* Text color */
+  padding: 10px 0; /* Adjust padding as needed */
+  text-align: center;
+  height: 120px;
+}
+
+/* Style the logo text */
+.logo h1 {
+  font-size: 44px; /* Adjust font size as needed */
+  /* font-weight: bold; */
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 10px; /* Adjust padding as needed */
+}
+.create-task {
+  font-size: 35px;
+  text-align: center;
+  margin-bottom: 40px;
+}
